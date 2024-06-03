@@ -2,7 +2,7 @@ Teste Nscreen
 
 Modificado apenas o arquivo functions.php do tema Twentytwentytwo. Adicionado campo de Co-autor da postagem.
 
-Build: docker compose up -d
+Build: ``docker compose up -d``
 
 CURL Rota custom:
 
